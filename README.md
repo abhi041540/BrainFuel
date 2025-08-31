@@ -137,7 +137,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/BrainFuel.git
+git clone https://github.com/abhi041540/BrainFuel.git
 cd BrainFuel
 
 # Install dependencies
