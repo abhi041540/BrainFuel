@@ -1,6 +1,6 @@
 <h1 align="center">🧠 BrainFuel</h1>
 <p align="center">
-  <img src="interface%20ss/icon.jpg" alt="BrainFuel Logo" width="120"/>
+  <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="120"/>
 </p>
 <p align="center">
   <strong>A smart, scalable quiz app for Android built with React Native</strong><br/>
@@ -31,39 +31,99 @@
 
 ## 📸 Screenshots
 
-| Screen | Description |
-|--------|-------------|
-| ![s1.jpg](Interface_Ss/s1.jpg) | 🔐 **Login Page** – Secure user authentication |
-| ![s2.jpg](Interface_Ss/s1.jpg) | 🔑 **Forgot Password** – Password recovery interface |
-| ![s3.jpg](Interface_Ss/s1.jpg) | 🏠 **Home Window** – Select quiz categories |
-| ![s4.jpg](interface_Ss/s4.jpg) | 🧭 **Subcategory Window** – Choose topics like Java, Python, etc. |
-|![s15jpg](interface_Ss/s5jpg) | ⏳ **Quiz Loading** – Prepares quiz content |
-| ![s6.jpg](interface_Ss/s6.jpg) | 📝 **Quiz Content** – Displays questions with options |
-| ![s7.jpg](interface_Ss/s7.jpg) | ⚠️ **Submission Alert** – Confirms quiz submission |
-| ![s8.jpg](interface_Ss/s8.jpg)| 🧮 **Score Window** – Shows quiz score |
-| ![s9.jpg](interface_Ss/s9.jpg) | 📊 **Result Window** – Correct answers vs user selections |
-| ![s10.jpg](interface_Ss/s10.jpg) | 👤 **User Profile** – Tracks total quizzes, average score, logout/delete options |
+<p align="center">
+  <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="80"/>
+</p>
+
+<div align="center">
+  <img src="Interface_Ss/s1.jpg" alt="Login Page" width="300"/>
+  <br/>
+  🔐 <strong>Login Page</strong> – Secure user authentication
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s2.jpg" alt="Forgot Password" width="300"/>
+  <br/>
+  🔑 <strong>Forgot Password</strong> – Password recovery interface
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s3.jpg" alt="Home Window" width="300"/>
+  <br/>
+  🏠 <strong>Home Window</strong> – Select quiz categories
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s4.jpg" alt="Subcategory Window" width="300"/>
+  <br/>
+  🧭 <strong>Subcategory Window</strong> – Choose topics like Java, Python, etc.
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s5.jpg" alt="Quiz Loading" width="300"/>
+  <br/>
+  ⏳ <strong>Quiz Loading</strong> – Prepares quiz content
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s6.jpg" alt="Quiz Content" width="300"/>
+  <br/>
+  📝 <strong>Quiz Content</strong> – Displays questions with options
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s7.jpg" alt="Submission Alert" width="300"/>
+  <br/>
+  ⚠️ <strong>Submission Alert</strong> – Confirms quiz submission
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s8.jpg" alt="Score Window" width="300"/>
+  <br/>
+  🧮 <strong>Score Window</strong> – Shows quiz score
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s9.jpg" alt="Result Window" width="300"/>
+  <br/>
+  📊 <strong>Result Window</strong> – Correct answers vs user selections
+</div>
+<br/>
+
+<div align="center">
+  <img src="Interface_Ss/s10.jpg" alt="User Profile" width="300"/>
+  <br/>
+  👤 <strong>User Profile</strong> – Tracks total quizzes, average score, logout/delete options
+</div>
 
 ---
 
 ## 🚀 Features
 
-- 🎯 **50+ Quiz Categories** with subtopics like Programming, Aptitude, GK, and more
-- 🧠 **20 Questions per Quiz**, randomized with difficulty levels: Easy, Medium, Hard
-- 🌐 **Web-Scraped Questions** from 50+ trusted sources for interview and exam relevance
-- 📈 **Real-Time Performance Tracking** with average score and quiz history
-- ✅ **Result Review** with correct answers and user selections
-- 🔄 **Cross-Platform Codebase** – Clone and run on iOS with minimal changes
-- 🎨 **Polished UI/UX** with theme-consistent visuals and smooth navigation
+- 🎯 50+ Quiz Categories with subtopics like Programming, Aptitude, GK, and more  
+- 🧠 20 Questions per Quiz, randomized with difficulty levels: Easy, Medium, Hard  
+- 🌐 Web-Scraped Questions from 50+ trusted sources for interview and exam relevance  
+- 📈 Real-Time Performance Tracking with average score and quiz history  
+- ✅ Result Review with correct answers and user selections  
+- 🔄 Cross-Platform Codebase – Clone and run on iOS with minimal changes  
+- 🎨 Polished UI/UX with theme-consistent visuals and smooth navigation  
 
 ---
 
 ## 📥 Download APK
 
-Click below to download the latest Android APK:
-
 <p align="center">
-  <a href="BrainFuel_APK/BrainFuel.apk">
+  <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="80"/>
+  <br/><br/>
+  <a href="brain%20fuel%20apk/BrainFuel.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge"/>
   </a>
 </p>
