@@ -14,21 +14,21 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [📸 Screenshots](#screenshots)
-- [🚀 Features](#features)
-- [📥 Download APK](#download-apk)
-- [🔧 Installation & Setup](#installation--setup)
-- [👤 User Profile & Analytics](#user-profile--analytics)
-- [🧪 Quiz Logic & Data](#quiz-logic--data)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [📬 Contact](#contact)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Download APK](#download-apk)
+- [Installation & Setup](#installation--setup)
+- [User Profile & Analytics](#user-profile--analytics)
+- [Quiz Logic & Data](#quiz-logic--data)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="80"/>
@@ -105,7 +105,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🎯 50+ Quiz Categories with subtopics like Programming, Aptitude, GK, and more  
 - 🧠 20 Questions per Quiz, randomized with difficulty levels: Easy, Medium, Hard  
@@ -117,19 +117,28 @@
 
 ---
 
-## 📥 Download APK
+## Download APK
 
-<p align="center"> <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="80"/> </p>
+<p align="center">
+  <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="80"/>
+</p>
 
-<p align="center"> <strong>Download BrainFuel for Android</strong><br/> Your personal quiz companion with 50+ categories, curated questions, and real-time performance tracking. </p>
+<p align="center">
+  <strong>Download BrainFuel for Android</strong><br/>
+  Your personal quiz companion with 50+ categories, curated questions, and real-time performance tracking.
+</p>
 
-<p align="center"> <a href="brain%20fuel%20apk/BrainFuel.apk" download> <img src="https://img.shields.io/badge/Download%20BrainFuel-APK-blue?style=for-the-badge&logo=android"/> </a> </p>
+<p align="center">
+  <a href="BrainFuel_APK/BrainFuel.apk" download>
+    <img src="https://img.shields.io/badge/Download%20BrainFuel-APK-blue?style=for-the-badge&logo=android"/>
+  </a>
+</p>
 
 > ⚠️ iOS users can clone the repository and build using React Native CLI or Expo for iOS deployment.
 
 ---
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 ```bash
 # Clone the repository
