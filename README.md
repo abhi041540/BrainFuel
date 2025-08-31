@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Version-1.0.0-yellow?style=flat-square"/></a>
 </p>
 
@@ -17,15 +16,15 @@
 
 ## 📚 Table of Contents
 
-- [📸 Screenshots](#-screenshots)
-- [🚀 Features](#-features)
-- [📥 Download APK](#-download-apk)
-- [🔧 Installation & Setup](#-installation--setup)
-- [👤 User Profile & Analytics](#-user-profile--analytics)
-- [🧪 Quiz Logic & Data](#-quiz-logic--data)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📬 Contact](#-contact)
+- [📸 Screenshots](#screenshots)
+- [🚀 Features](#features)
+- [📥 Download APK](#download-apk)
+- [🔧 Installation & Setup](#installation--setup)
+- [👤 User Profile & Analytics](#user-profile--analytics)
+- [🧪 Quiz Logic & Data](#quiz-logic--data)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
+- [📬 Contact](#contact)
 
 ---
 
@@ -123,7 +122,7 @@
 <p align="center">
   <img src="Interface_Ss/icon.png" alt="BrainFuel Logo" width="80"/>
   <br/><br/>
-  <a href="brain%20fuel%20apk/BrainFuel.apk">
+  <a href="BrainFuel_APK/BrainFuel.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge"/>
   </a>
 </p>
