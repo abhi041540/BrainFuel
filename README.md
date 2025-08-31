@@ -33,9 +33,9 @@
 
 | Screen | Description |
 |--------|-------------|
-| ![s1.jpg](interface_Ss/s1.jpg) | 🔐 **Login Page** – Secure user authentication |
-| ![s2.jpg](interface_Ss/s2.jpg) | 🔑 **Forgot Password** – Password recovery interface |
-| ![s3.jpg](interface_Ss/s3.jpg) | 🏠 **Home Window** – Select quiz categories |
+| ![s1.jpg](Interface_Ss/s1.jpg) | 🔐 **Login Page** – Secure user authentication |
+| ![s2.jpg](Interface_Ss/s1.jpg) | 🔑 **Forgot Password** – Password recovery interface |
+| ![s3.jpg](Interface_Ss/s1.jpg) | 🏠 **Home Window** – Select quiz categories |
 | ![s4.jpg](interface_Ss/s4.jpg) | 🧭 **Subcategory Window** – Choose topics like Java, Python, etc. |
 |![s15jpg](interface_Ss/s5jpg) | ⏳ **Quiz Loading** – Prepares quiz content |
 | ![s6.jpg](interface_Ss/s6.jpg) | 📝 **Quiz Content** – Displays questions with options |
