@@ -20,11 +20,6 @@
 - [Features](#features)
 - [Download APK](#download-apk)
 - [Installation & Setup](#installation--setup)
-- [User Profile & Analytics](#user-profile--analytics)
-- [Quiz Logic & Data](#quiz-logic--data)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
